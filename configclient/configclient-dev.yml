@@ -1,2 +1,7 @@
 info:
 	profile: dev
+
+
+normal:
+	key: key
+	value: value
